@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_spots"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="景区信息" />
+        <item
+            android:id="@+id/nav_map"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="地图信息" />
+        <item
+            android:id="@+id/nav_food"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="美食文化" />
+        <item
+            android:id="@+id/nav_transport"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="出行交通" />
+        <item
+            android:id="@+id/nav_guide"
+            android:title="旅游指南"/>
+        <item
+            android:id="@+id/nav_setting"
+            android:title="系统设置"/>
+
+    </group>
+</menu>
