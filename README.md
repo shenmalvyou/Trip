@@ -2,6 +2,6 @@
 ---
 
 ##神马旅游
-Android智能导游APP
+Android智能导游APP。
 
 
